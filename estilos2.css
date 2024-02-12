@@ -2,6 +2,11 @@ footer{
     font-size: 44px;
 }
 
+form{
+    background-color: green;
+}
+
 form input{
     margin: 5px 0px;
+    
 }
